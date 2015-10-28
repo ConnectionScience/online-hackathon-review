@@ -21,7 +21,7 @@
 
 ## Google Hangouts Collaboration Scoring 
 
-https://github.com/ConnectionScience/collaboration-dashboard-prototype
+- https://github.com/ConnectionScience/collaboration-dashboard-prototype
 
 
 ## Recording and Saving Team Chats
@@ -34,6 +34,7 @@ https://github.com/ConnectionScience/collaboration-dashboard-prototype
 ## Analyzing Collaboration 
 
 ![](Screenshot 2015-10-28 15.18.17.png)
+
 ![](Screenshot 2015-10-28 15.20.10.png)
 
 
@@ -48,7 +49,7 @@ https://github.com/ConnectionScience/collaboration-dashboard-prototype
 
 Hackathon, Unconference, and Moocs
 
-https://github.com/unhangout/unhangout
+- https://github.com/unhangout/unhangout
 
 
 ## Open Development 
