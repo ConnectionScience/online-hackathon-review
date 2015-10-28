@@ -1,1 +1,47 @@
 # online-hackathon-review
+
+## Create Projects and Measure Success 
+
+- https://firsttodisclose.herokuapp.com/
+
+https://www.dropbox.com/s/z9cm24xfnkv1uyx/Screenshot%202015-10-28%2016.05.25.png
+
+## Core Project Construction 
+
+## Project Workspaces 
+
+- Google Hangouts
+- GitHub
+- IRC
+- Mailing Lists
+- Slack
+
+## Google Hangouts Collaboration Scoring 
+
+https://github.com/ConnectionScience/collaboration-dashboard-prototype
+
+https://www.dropbox.com/s/5z4skbj8f1o45pl/Screenshot%202015-10-28%2016.19.24.png
+
+## Recording and Saving Team Chats
+
+https://www.youtube.com/watch?v=oT1RPSLa9l0
+
+## Analyzing Collaboration 
+
+https://www.dropbox.com/s/3wgtei1yiemg9gz/Screenshot%202015-10-28%2015.18.17.png
+
+https://www.dropbox.com/s/4471vs5nkr84khy/Screenshot%202015-10-28%2015.20.10.png
+
+## Synthetic Models of User Talk Behavior 
+
+- http://p.wal.sh/communication-model/
+
+## Extending Existing Collaboration Tools 
+
+Hackathon, Unconference, and Moocs
+
+https://github.com/unhangout/unhangout
+
+## Open Development 
+
+https://github.com/ConnectionScience/OnlineHackathon
